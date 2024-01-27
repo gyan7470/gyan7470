@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: gyanu7470@gmail.com
+- 🎉 Portfolio website: https://main--thegyanu.netlify.app/
   
 ### Connect with me:
 <div id="badges">
@@ -18,6 +19,9 @@
   </a>
    <a href="https://twitter.com/gyanu7470">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+ <a href="https://thegyanu.netlify.app/">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=Website&logoColor=white" alt="Website badge"/>
   </a>
 </div>
 
